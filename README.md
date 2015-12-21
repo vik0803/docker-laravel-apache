@@ -19,7 +19,7 @@ Server port is 80
 FROM leenin/laravel-apache
 ```
 
-###As follows can set in environment.
+### As follows can set in environment.
 
 ```
 APP_ENV=local
